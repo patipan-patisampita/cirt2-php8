@@ -27,7 +27,7 @@
 
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            เกี่ยวกับเรา
+                                เกี่ยวกับเรา
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="#">ประวัติส่วนตัว</a></li>
@@ -42,11 +42,27 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#">ทีมงานของเรา</a>
                         </li>
-                        
+
                         <li class="nav-item">
-                            <a class="nav-link disabled">Disabled</a>
+                            <a class="nav-link" href="#">ภาพความปรทับใจ</a>
                         </li>
-                    </ul>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">ติดต่อเรา</a>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                ลิงค์เว็บไซต์
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">วท.ตราด</a></li>
+                                <li><a class="dropdown-item" href="#">อาชีวศึกษา</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="#">กระทรวงศึกษาธิการ</a></li>
+                            </ul </ul>
                 </div>
             </div>
         </nav>
