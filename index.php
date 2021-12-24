@@ -62,7 +62,8 @@
                                     <hr class="dropdown-divider">
                                 </li>
                                 <li><a class="dropdown-item" href="#">กระทรวงศึกษาธิการ</a></li>
-                            </ul </ul>
+                            </ul>
+                        </li>
                 </div>
             </div>
         </nav>
